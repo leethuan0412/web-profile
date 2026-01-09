@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.viettelpost.smartbox",
+      "sha256_cert_fingerprints": [
+      "A9:16:EF:47:5A:1B:66:B6:AE:20:2D:EB:FD:FE:41:26:3C:60:00:13:6A:B5:1C:26:04:E4:49:5E:BD:F1:1A:71" 
+      ]
+    }
+  }
+]
