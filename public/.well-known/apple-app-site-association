@@ -3,9 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appIDs": [
-          "8LVS96NPKP.com.viettelpost.smartbox"
-        ],
+        "appID":"8LVS96NPKP.com.viettelpost.smartbox",
         "paths": [
           "*"
         ]
