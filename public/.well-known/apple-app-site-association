@@ -4,8 +4,9 @@
     "details": [
       {
         "appID":"8LVS96NPKP.com.viettelpost.smartbox",
-        "paths": [
-          "*"
+         "paths": [
+          "/app",
+          "/app/*"
         ]
       }
     ]
