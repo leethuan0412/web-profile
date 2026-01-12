@@ -20,6 +20,10 @@ const NavScreen = () => {
       name: "work",
       path: "/work",
     },
+    {
+      name: "app",
+      path: "/api/app-redirect",
+    },
   ];
   const pathName = usePathname();
 

@@ -25,6 +25,10 @@ const MobileNav = () => {
       name: "contact",
       path: "/contact",
     },
+     {
+      name: "app",
+      path: "/api/app-redirect",
+    },
   ];
   const [isOpen, setIsOpen] = useState(false);
   const pathName = usePathname();
