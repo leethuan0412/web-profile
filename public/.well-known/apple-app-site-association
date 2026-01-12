@@ -5,8 +5,7 @@
       {
         "appID":"8LVS96NPKP.com.viettelpost.smartbox",
          "paths": [
-          "/app-links/app-redirect/*",
-          "/app-links/app-redirect/"
+          "*"
         ]
       }
     ]
