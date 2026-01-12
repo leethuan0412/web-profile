@@ -3,11 +3,9 @@
     "apps": [],
     "details": [
       {
-        "appID":"8LVS96NPKP.com.viettelpost.smartbox",
-        "components": [
-          {
-            "/": "/app-links/app-redirect/*"
-          }
+        "appID": "8LVS96NPKP.com.viettelpost.smartbox",
+        "paths": [
+        "*"
         ]
       }
     ]
